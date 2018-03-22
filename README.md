@@ -12,7 +12,7 @@ The application is designed with C#, .Net, and Visual Studio and sets connection
 2. Refresh the page
 3. Add hours and see details of working hours
 
-<b>Screen Shots:<b/>
+<b>Screen Shots:</b>
 
 -HomePage:
 
